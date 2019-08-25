@@ -1,0 +1,23 @@
+{
+    "name": "quanzo/x51-functions",
+    "description": "Functions set in static class",
+	"version": "1.0.0",
+    "authors": [
+        {
+            "name": "Quanzo",
+            "email": "iquanzo@gmail.com"
+        }
+    ],
+    "keywords": [
+    ],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "x51\\functions\\": "src//"
+        }
+    }
+}
