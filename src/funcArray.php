@@ -1,6 +1,4 @@
 <?php
-
-
 // ###
 namespace x51\functions;
 
