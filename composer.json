@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "x51\\functions\\": "src//",
+            "x51\\functions\\": "src//"
         }
     }
 }
